@@ -34,5 +34,3 @@ Weight and volume Based Shipping is a simple yet flexible shipping method for Wo
 3. In Shipping methods Click Add shipping method then choose Weight Volume Shipping.
 4. Click tab Weight Volume Shipping to setting your shipping method.
 == Screenshots ==
-
-1. A configuration example
